@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repositary.
 <br>
-Author - Mangesh Diwakar
+Author - Mangesh (your FIN-Expainer)
